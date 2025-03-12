@@ -18,7 +18,7 @@ def icon(emoji: str):
 
 #icon("🏎️")
 
-st.subheader("ask to our ai bot nitesh", divider="rainbow", anchor=False)
+st.subheader("ask to ai nitesh", divider="rainbow", anchor=False)
 
 #GROQ_API_KEY = "your_groq_api_key_here"
 
